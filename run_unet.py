@@ -26,11 +26,10 @@ n_samples = train_data.__len__()
    
 runningLoss = []
 
-nb_epoch = 5
+# nb_epoch = 5
 
 device = 'cuda'
 
-import torch
 
 from tqdm import tqdm  # For progress bars during training
 
