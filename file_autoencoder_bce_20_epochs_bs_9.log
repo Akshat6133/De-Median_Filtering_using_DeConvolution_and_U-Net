@@ -1,0 +1,89 @@
+1538
+1538
+153
+153
+309
+309
+Epoch 1/20
+Train Loss: 0.1745, Train Accuracy: 0.89%
+Validation Loss: 0.1631, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 2/20
+Train Loss: 0.1597, Train Accuracy: 0.89%
+Validation Loss: 0.1628, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 3/20
+Train Loss: 0.1574, Train Accuracy: 0.89%
+Validation Loss: 0.1614, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 4/20
+Train Loss: 0.1567, Train Accuracy: 0.89%
+Validation Loss: 0.1616, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 5/20
+Train Loss: 0.1562, Train Accuracy: 0.89%
+Validation Loss: 0.1610, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 6/20
+Train Loss: 0.1560, Train Accuracy: 0.89%
+Validation Loss: 0.1609, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 7/20
+Train Loss: 0.1559, Train Accuracy: 0.89%
+Validation Loss: 0.1609, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 8/20
+Train Loss: 0.1559, Train Accuracy: 0.89%
+Validation Loss: 0.1607, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 9/20
+Train Loss: 0.1558, Train Accuracy: 0.89%
+Validation Loss: 0.1609, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 10/20
+Train Loss: 0.1585, Train Accuracy: 0.89%
+Validation Loss: 0.1608, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 11/20
+Train Loss: 0.1558, Train Accuracy: 0.89%
+Validation Loss: 0.1608, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 12/20
+Train Loss: 0.1557, Train Accuracy: 0.89%
+Validation Loss: 0.1608, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 13/20
+Train Loss: 0.1555, Train Accuracy: 0.89%
+Validation Loss: 0.1607, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 14/20
+Train Loss: 0.1555, Train Accuracy: 0.89%
+Validation Loss: 0.1605, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 15/20
+Train Loss: 0.1555, Train Accuracy: 0.89%
+Validation Loss: 0.1604, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 16/20
+Train Loss: 0.1554, Train Accuracy: 0.89%
+Validation Loss: 0.1609, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 17/20
+Train Loss: 0.1554, Train Accuracy: 0.89%
+Validation Loss: 0.1604, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 18/20
+Train Loss: 0.1553, Train Accuracy: 0.89%
+Validation Loss: 0.1604, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 19/20
+Train Loss: 0.1553, Train Accuracy: 0.89%
+Validation Loss: 0.1604, Validation Accuracy: 0.04%
+--------------------------------------------------
+Epoch 20/20
+Train Loss: 0.1553, Train Accuracy: 0.89%
+Validation Loss: 0.1604, Validation Accuracy: 0.04%
+--------------------------------------------------
+Training complete.
+Best validation accuracy: 0.04%
+Test Accuracy: 0.17%
