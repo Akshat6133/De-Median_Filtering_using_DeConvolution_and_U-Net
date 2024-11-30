@@ -1,8 +1,7 @@
 # Median Filtering Detection using U-Net and Deconvolution
-- Presented By Akshat Arora (B.Tech 2021-25)
+- Presented By Akshat Arora (B.Tech 2021-25) @IIT_Bhilai
 
 ## Link to code and dataset:
-(google drive)[https://drive.google.com/drive/folders/14BkPGJD8RNK_36BkWrq25_6XHGThy14_?usp=sharing]
 
 - contains all code and dataset used along with all the necessary instructions mentioned in the google form. 
 
